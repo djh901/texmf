@@ -4,3 +4,4 @@
 \LoadClass{article}
 
 \RequirePackage[margin=1in]{geometry}
+\RequirePackage{graphicx}
