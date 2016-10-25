@@ -5,3 +5,4 @@
 
 \RequirePackage[margin=1in]{geometry}
 \RequirePackage{graphicx}
+\RequirePackage{booktabs}
