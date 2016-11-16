@@ -6,7 +6,7 @@
 \RequirePackage[margin=1in]{geometry}
 \RequirePackage{graphicx}
 \RequirePackage{booktabs}
-\RequirePackage{cleveref}
+\RequirePackage[noabbrev,capitalize]{cleveref}
 \RequirePackage{subcaption}
 \RequirePackage[round-mode=places]{siunitx}
 
